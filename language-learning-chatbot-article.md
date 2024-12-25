@@ -71,7 +71,7 @@ The system operates through a three-stage pipeline:
 Let's examine a complete learning interaction:
 
 **Input Scenario**: Spanish to English Translation
-![Alt text](<Screenshot 2024-12-24 at 11.47.44 PM.png>)
+![Alt text](Output_1.png)
 
 This interaction demonstrates how the system:
 - Accurately translates idiomatic expressions
