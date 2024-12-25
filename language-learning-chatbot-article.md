@@ -74,7 +74,7 @@ Let's examine a complete learning interaction:
 ![Alt text](Output_1.png)
 
 **Input Scenario**: Spanish to English Translation
-![Alt text](Output_1.png)
+![Alt text](Output_2.png)
 
 This interaction demonstrates how the system:
 - Accurately translates idiomatic expressions
