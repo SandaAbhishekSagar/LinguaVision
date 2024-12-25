@@ -73,7 +73,7 @@ Let's examine a complete learning interaction:
 **Input Scenario**: Spanish to English Translation
 ![Alt text](Output_1.png)
 
-**Input Scenario**: Spanish to English Translation
+**Input Scenario**: Hindi to English Translation
 ![Alt text](Output_2.png)
 
 This interaction demonstrates how the system:
