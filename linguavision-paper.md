@@ -33,7 +33,7 @@ The system incorporates several key educational elements:
 
 ### 3.1 Translation Process
 
-![Action Translation Example](example1.png)
+![Action Translation Example]()
 *Figure 1: Translation interface showing Hindi to English conversion with visual context generation. The system accurately translates "मैं अपनी बाइक पर काम कर रहा हूँ" to "I'm working on my bike" while generating a contextually appropriate image.*
 
 The translation process demonstrates several key features:
@@ -44,7 +44,7 @@ The translation process demonstrates several key features:
 
 ### 3.2 Cultural Context Preservation
 
-![Historical Context Example](example2.png)
+![Historical Context Example](Output_1.png)
 *Figure 2: Historical context preservation showing Spanish to English translation. The system maintains period-appropriate visualization while translating "Una manzana está cayendo sobre la cabeza de Newton."*
 
 Our system excels at maintaining cultural and historical context through:
