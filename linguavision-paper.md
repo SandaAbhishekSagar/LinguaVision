@@ -33,7 +33,7 @@ The system incorporates several key educational elements:
 
 ### 3.1 Translation Process
 
-![Action Translation Example]()
+![Action Translation Example](Output_3.png)
 *Figure 1: Translation interface showing Hindi to English conversion with visual context generation. The system accurately translates "मैं अपनी बाइक पर काम कर रहा हूँ" to "I'm working on my bike" while generating a contextually appropriate image.*
 
 The translation process demonstrates several key features:
@@ -54,7 +54,7 @@ Our system excels at maintaining cultural and historical context through:
 
 ### 3.3 Emotional Expression Handling
 
-![Emotional Context Example](example3.png)
+![Emotional Context Example](Output_2.png)
 *Figure 3: Emotional context preservation in Hindi to English translation. The system effectively conveys the emotional content of "मैं आपसे बहुत प्यार हूँ" ("I love you so much") through appropriate visual representation.*
 
 The system demonstrates sophisticated handling of emotional content through:
